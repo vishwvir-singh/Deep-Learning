@@ -6,5 +6,6 @@
 4. convolutional_sentiment_classifier.ipynb
 5. rnn_sentiment_classifier.ipynb
 6. GRU_sentiment_classifier.ipynb
-7. bidirectional_lstm_sentiment_classifier.ipynb
-8. stacked_bi_lstm_sentiment_classifier.ipynb
+7. LSTM_sentiment_classifier.ipynb
+8. bidirectional_lstm_sentiment_classifier.ipynb
+9. stacked_bi_lstm_sentiment_classifier.ipynb
